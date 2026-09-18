@@ -10,3 +10,4 @@ crash.*.log
 *.tfvars.json
 
 .env
+security-venv/
